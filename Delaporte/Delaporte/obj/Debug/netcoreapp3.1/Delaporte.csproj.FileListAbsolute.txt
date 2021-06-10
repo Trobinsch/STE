@@ -1,0 +1,11 @@
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\bin\Debug\netcoreapp3.1\Delaporte.exe
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\bin\Debug\netcoreapp3.1\Delaporte.deps.json
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\bin\Debug\netcoreapp3.1\Delaporte.runtimeconfig.json
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\bin\Debug\netcoreapp3.1\Delaporte.runtimeconfig.dev.json
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\bin\Debug\netcoreapp3.1\Delaporte.dll
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\bin\Debug\netcoreapp3.1\Delaporte.pdb
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\obj\Debug\netcoreapp3.1\Delaporte.csprojAssemblyReference.cache
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\obj\Debug\netcoreapp3.1\Delaporte.AssemblyInfoInputs.cache
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\obj\Debug\netcoreapp3.1\Delaporte.AssemblyInfo.cs
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\obj\Debug\netcoreapp3.1\Delaporte.dll
+C:\Users\Robin.Schmutz\source\repos\Delaporte\Delaporte\obj\Debug\netcoreapp3.1\Delaporte.pdb
